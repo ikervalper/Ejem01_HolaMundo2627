@@ -23,5 +23,12 @@ Esta modificacion nos sirve para aprender Markdown que por ejemplo los titulos `
 | version |modificacion| Propietario de la modificacion |
 |---|---|---|
 |1.0|Creacion del readme|Iker Valle|
-:<img width="250" height="280" alt="despicablememinionsGIF" src="https://github.com/user-attachments/assets/7c236c97-9356-429e-9be6-690fa39ea958" />:
+
+```
+{
+  "primer nombre": "Iker",
+  "apellido": "Valle",
+  "edad": 25
+}
+```
 
